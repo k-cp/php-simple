@@ -1,0 +1,34 @@
+body{
+    background-color: #03DA89;
+}
+
+#main-content {
+    margin-top:15px;
+
+}
+.footer {
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+.logo{
+    text-align: left;
+}
+.abc{
+    text-align: center;
+}
+
+.header-blocks{
+    display: inline-block;
+    font-size: 160px;
+}
+.jumbotron{
+    background-color: #FFFFFF;
+}
+.nav-link:hover{
+    color: #0A3DEA;
+}
+
+.my-button:hover{
+    background-color: yellow;
+}
