@@ -25,10 +25,15 @@ body{
 .jumbotron{
     background-color: #FFFFFF;
 }
-.nav-link:hover{
-    color: #0A3DEA;
+.nav-item{
+    background-color: #007BFF;
 }
 
 .my-button:hover{
     background-color: yellow;
+    
+}
+
+.nav-pills .nav-link{
+    color: #FFFFFF;
 }

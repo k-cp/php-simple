@@ -11,3 +11,8 @@
 	  </li>
 	</ul>
 </div>
+
+<button type="button" class="my-button btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+    Single toggle
+</button>
+
